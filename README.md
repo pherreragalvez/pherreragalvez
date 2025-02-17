@@ -5,8 +5,8 @@
 - Bachelor's in Economics and Certificate Program in Big Data and Data Science, both of them in Chile.
 
 Relevant repositories:
-- <a href="https://github.com/pherreragalvez/Stata-dofiles/tree/main" target="_blank">Stata do files</a>
 - <a href="https://github.com/pherreragalvez/big_data_science_diploma" target="_blank">R scripts - Data Science Diploma</a>
+- <a href="https://github.com/pherreragalvez/Stata-dofiles/tree/main" target="_blank">Stata do files</a>
 
 <!---
 pherreragalvez/pherreragalvez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
