@@ -1,4 +1,4 @@
-**About me**
+**About me:**
 - Hi, I’m @pherreragalvez
 - 📚I'm an economist from Chile and I’m interested in data analysis with focus on economics and public policy.
 - 📊Proficient in R and Stata, also some knowledge in Python.
