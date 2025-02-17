@@ -6,7 +6,7 @@
 
 Relevant repositories:
 - <a href="https://github.com/pherreragalvez/Stata-scripts" target="_blank">Stata do files</a>
-- <a href="https://github.com/pherreragalvez/big_data_science_diploma" target="_blank">Data Science R scripts</a>
+- <a href="https://github.com/pherreragalvez/big_data_science_diploma" target="_blank">R scripts - Data Science Diploma</a>
 
 <!---
 pherreragalvez/pherreragalvez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
