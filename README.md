@@ -1,5 +1,5 @@
 - Hi, I’m @pherreragalvez
-- I’m interested in data analysis with focus on economics and public policy.
+- I'm an Economist from Chile and I’m interested in data analysis with focus on economics and public policy.
 - I am proficient in R and Stata, and also have some knowledge in Python.
 - I’m currently studying a MSc. Social Protection in the University of Applied Sciences Bonn-Rhein-Sieg, in Germany.
 - I previously studied a Bachelor in Economics and a Certificate Program in Big Data and Data Science, both of them in Chile.
