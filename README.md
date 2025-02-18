@@ -6,7 +6,7 @@
 - 📊Proficient in R and Stata, also some knowledge in Python.
 
 **Relevant repositories:**
-- <a href="https://github.com/pherreragalvez/big_data_science_diploma" target="_blank">R scripts - Data Science Diploma</a>
+- <a href="https://github.com/pherreragalvez/r_big_data_science" target="_blank">R scripts - Data Science Diploma</a>
 - <a href="https://github.com/pherreragalvez/Stata-dofiles" target="_blank">Stata do files</a>
 
 <!---
