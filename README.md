@@ -1,7 +1,7 @@
 **About me:**
 - Hi, I’m Pablo.
 - 📚I'm an economist from Chile and I’m interested in data analysis with focus on public policy.
-- 👨🏻‍🎓Bachelor's in Economics and Certificate Program in Big Data and Data Science, both of them in Chile.
+- 👨🏻‍🎓Bachelor's in Economics and Postgraduate Diploma in Big Data and Data Science, both of them in Chile.
 - 🇩🇪Currently studying a MSc. in Social Protection in the Hochschule Bonn-Rhein-Sieg, in Germany.
 - 📊Proficient in R and Stata, also some knowledge in Python.
 
